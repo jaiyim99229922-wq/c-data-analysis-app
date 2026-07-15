@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\user\OneDrive\Desktop\main.cpp\image\image\main.cpp(16,3): error C2371: 'BITMAPFILEHEADER': redefinition; different basic types
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\wingdi.h(946,3):
+      see declaration of 'BITMAPFILEHEADER'
+  
+C:\Users\user\OneDrive\Desktop\main.cpp\image\image\main.cpp(30,3): error C2371: 'BITMAPINFOHEADER': redefinition; different basic types
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\wingdi.h(827,3):
+      see declaration of 'BITMAPINFOHEADER'
+  
+C:\Users\user\OneDrive\Desktop\main.cpp\image\image\main.cpp(193,9): error C3861: '_getch': identifier not found
