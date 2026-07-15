@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="flappy/flappy.vcxproj" Id="b9bf0da7-9ea2-44ea-8238-010b80f4c0ae" />
+</Solution>
